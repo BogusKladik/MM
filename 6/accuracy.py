@@ -1,0 +1,1 @@
+# def accuracy(function_method, f)

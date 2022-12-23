@@ -3,10 +3,10 @@ import sys
 import matplotlib.pyplot as plt
 import numpy as np
 
-import inbuilt
-import lagrange
-import linear
-import parabolic
+import methods.inbuilt as inbuilt
+import methods.lagrange as lagrange
+import methods.linear as linear
+import methods.parabolic as parabolic
 import tools
 
 
